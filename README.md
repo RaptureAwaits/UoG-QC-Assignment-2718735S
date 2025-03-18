@@ -10,4 +10,5 @@ To submit the exercise, give Simon Gay access to your repository (user name: Sim
 
 As usual, you can use the "Launch in qBraid" button to open your repository within the qBraid environment.
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://github.com/RaptureAwaits/UoG-QC-Assignment-2718735S)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/RaptureAwaits/UoG-QC-Assignment-2718735S)
+
